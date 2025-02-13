@@ -1,0 +1,1 @@
+Hammer 123 12 Nails 900 2000 Hoe 234 2 Rake 357 5 Saw 876 4 Screwdriver 248 20 Screws 249 100 Pliers 800 15 
